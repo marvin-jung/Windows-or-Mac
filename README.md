@@ -630,7 +630,6 @@ plt.show()
 ```
 
 <img src="images/dendrogram-1.png" style="zoom:17%;" />
-<br>
 
 ```python
 ## COMMENT out screeplot display
@@ -737,7 +736,6 @@ plt.show()
 ```
 
 <img src="images/dendrogram-2.png" style="zoom:17%;" /> 
-<br>
 
 ```python
 # calling the inertia_plot() function
@@ -962,7 +960,6 @@ for bar in want_laptop.patches:
 ```
 
 <img src="images/countplot-1.png" style="zoom:18%;" />
-<br>
 
 **CONCLUSION**
 
@@ -985,7 +982,6 @@ plt.show()
 ```
 
 <img src="images/countplot-2.png" style="zoom:21%;" /> 
-<br><br>
 
 **CONCLUSION**
 
@@ -1064,7 +1060,6 @@ for bar in want_laptop.patches:
 ```
 
 <img src="images/countplot-3.png" style="zoom: 18%;" />
-<br>
 
 **CONCLUSION**
 
